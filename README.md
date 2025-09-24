@@ -138,7 +138,7 @@ SSReportTools-1.0.0/
 
 ### 漏洞库配置 (config/VulnWiki.yml)
 
-漏洞库基于[狼组安全团队公开知识库](https://wiki.wgpsec.org/knowledge/web)，包含30+专业漏洞信息：
+漏洞库基于[狼组安全团队公开知识库]，包含30+专业漏洞信息：
 
 **OWASP Top 10 2021 漏洞类型:**
 - A01:2021-访问控制失效
